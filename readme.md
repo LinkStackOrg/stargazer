@@ -8,6 +8,9 @@ Find more themes: https://github.com/JulianPrieber/llc-themes
 *	Theme Author URI: https://github.com/JulianPrieber
 *	Theme License: GPLv3
 
+## Preview:
+![Preview](https://i.imgur.com/S84rKl4.gif)
+
 
 ### Used assets:
 * Built using:
