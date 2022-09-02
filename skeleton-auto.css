@@ -68,8 +68,7 @@
         font-size: 18px;
         line-height: 24px;
         font-weight: 400;
-        background: #292929;
-        background: radial-gradient(circle, #292929 28%, #1b1b1b 100%);
+        background-color: #000;
         font-family: "Roboto";
         color: #FFFFFF;
        }
@@ -222,7 +221,6 @@
 
 .parallax-background {
   position: absolute;
-  min-height: 120%;
   margin:0;
   left: 0;
   right: 0;
@@ -230,7 +228,6 @@
   bottom: 0;
   perspective: 340px;
   z-index: 0;
-  background-color: #000;
 }
 .object1 {
   position: absolute;
