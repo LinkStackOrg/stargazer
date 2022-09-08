@@ -48,7 +48,8 @@
       background-image: linear-gradient(rgb(13, 14, 33), rgb(13, 14, 33)), radial-gradient(circle at left top, rgb(1, 110, 218), rgb(217, 0, 192));
   background-origin: border-box;
   background-clip: padding-box, border-box;
-  width: 300px;
+  max-width: 300px;
+  width: 70%;
 }
 
 .button:hover {
