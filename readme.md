@@ -1,5 +1,5 @@
-# A LittleLink Custom Theme
-Find more themes: https://github.com/JulianPrieber/llc-themes
+# A LinkStack Theme
+Find more themes: https://linkstack.org/themes/
                                                                                                                                                                          
 *	Theme Name: Stargazer
 *	Theme Version: 1.5
@@ -7,7 +7,7 @@ Find more themes: https://github.com/JulianPrieber/llc-themes
 *	Theme Author: JulianPrieber
 *	Theme Author URI: https://github.com/JulianPrieber
 *	Theme License: GPLv3
-*	Source code: https://github.com/JulianPrieber/stargazer
+*	Source code: https://github.com/LinkStackOrg/stargazer
 
 ## Preview:
 ![Preview](https://i.imgur.com/S84rKl4.gif)
