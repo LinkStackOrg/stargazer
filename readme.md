@@ -1,5 +1,5 @@
 # A LinkStack Theme
-Find more themes: https://linkstack.org/themes/
+Find more themes: https://linkstack.org/themes
                                                                                                                                                                          
 *	Theme Name: Stargazer
 *	Theme Version: 1.6
@@ -10,7 +10,7 @@ Find more themes: https://linkstack.org/themes/
 *	Source code: https://github.com/LinkStackOrg/stargazer
 
 ## Preview:
-![Preview](https://i.imgur.com/S84rKl4.gif)
+![Preview](/preview.gif)
 
 
 ### Used assets:
