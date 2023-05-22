@@ -4,7 +4,7 @@ Find more themes: https://linkstack.org/themes
 *	Theme Name: Stargazer
 *	Theme Version: 1.6
 *	Theme Date: 2022-09-01
-*	Theme Author: JulianPrieber
+*	Theme Author: JulianPrieber & LinkStack Team
 *	Theme Author URI: https://github.com/JulianPrieber
 *	Theme License: GPLv3
 *	Source code: https://github.com/LinkStackOrg/stargazer
