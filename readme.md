@@ -2,7 +2,7 @@
 Find more themes: https://linkstack.org/themes
                                                                                                                                                                          
 *	Theme Name: Stargazer
-*	Theme Version: 1.7
+*	Theme Version: 1.8
 *	Theme Date: 2022-09-01
 *	Theme Author: JulianPrieber & LinkStack Team
 *	Theme Author URI: https://github.com/JulianPrieber
